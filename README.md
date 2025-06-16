@@ -3,6 +3,10 @@
 `rpc` is a lightweight command-line tool for storing, listing, checking, and
 retrieving named RPC endpoints.
 
+<p align="center">
+  <img src="assets/rpc.gif" alt="Demo of rpc CLI" width="600">
+</p>
+
 ---
 
 ## Features
