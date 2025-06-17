@@ -79,9 +79,13 @@ $ cast chain-id -r $(rpc mainnet)
 
 ---
 
-## Clean. Minimal. Yours.
+## Contribute
 
-No tracking, no dependencies, no network requests — just a nice wrapper around your favorite endpoints.
+Contributions are welcome! Here are some features I want to put in the roadmap
+
+- [ ] Add a `--edit` command to edit the list in `$EDITOR` (or vim)
+- [ ] Add a `--check` command that tries to fetch the chain ID or latest block number from the RPC to ensure it is up
+- [ ] Come up with other improvements
 
 ## License
 
